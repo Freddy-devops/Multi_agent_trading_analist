@@ -13,3 +13,4 @@ Système multi-agents autonome propulsé par **CrewAI** et **Gemini** pour l'ana
 * **Framework** : CrewAI, LiteLLM
 * **Modèle** : Gemini 3.5 Flash-Lite
 * **Données** : Yahoo Finance (`yfinance`)
+* **Données** : duckduckgo-search
