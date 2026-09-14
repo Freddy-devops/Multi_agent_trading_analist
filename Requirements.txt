@@ -1,0 +1,6 @@
+crewai
+litellm
+yfinance
+duckduckgo-search
+python-dotenv
+nest_asyncio
