@@ -1,5 +1,6 @@
 crewai
 litellm
+google-generativai
 yfinance
 duckduckgo-search
 python-dotenv
